@@ -1,0 +1,4 @@
+com\zheok\pufeite\controller\TripartiteController.class
+com\zheok\pufeite\PufeiteApplication.class
+com\zheok\pufeite\controller\Entity.class
+com\zheok\pufeite\bean\RestTemplateConfig.class
